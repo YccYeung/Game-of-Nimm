@@ -1,19 +1,3 @@
-"""
-Name: <Justin>
-
-Course: CS1430, Section <Insert section here>, Spring 2022
-
-Assignment: Assignment 5
-
-Purpose:    
-
-Input:      
-
-Output:     
-
-"""
-
-
 from distutils.util import strtobool
 
 from student.game import Game
